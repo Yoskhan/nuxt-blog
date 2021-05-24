@@ -1,20 +1,18 @@
-# nuxtexercise
+## Demo project for learning NUXT.js
 
-## Build Setup
+### Overview
+After learning Vue I wanted to continue with **NUXT.js** to learn more about **Server Side Rendering.** With my background in **SEO and digital marketing** I know how it is imported for certain apps **(like blogs, shops, news portals) to be able to use SEO.** Also learn a lot about **storing data in cookies and browser local storage** for login and signing up users.
 
-```bash
-# install dependencies
-$ npm install
+## Practicing
+- NUXT.js
+- Server Side Rendering
+- Using localStorage and Cookies for storing tokens, and other data
+- Making Login and SignUp for Users
+- Making Admin route private
+- Enabeling users to edit blogs if they are logged in
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## How to start the app
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+Download the code & run **npm install** to install dependencies before starting the app.
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Then invoke starting script: **npm run dev**
